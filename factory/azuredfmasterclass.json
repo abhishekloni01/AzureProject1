@@ -1,0 +1,15 @@
+{
+	"name": "azuredfmasterclass",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "506f861f-1e08-423c-a980-0a13ad5ce462",
+		"tenantId": "96a94282-bd6e-4d03-84fc-3c15c1c902ad"
+	}
+}
